@@ -1,0 +1,7 @@
+{
+  "watch_interval": 5,
+  "log_retention_lines": 10000,
+  "live_log_lines": 1000,
+  "change_log_lines": 4000,
+  "monitor_refresh_interval": 2
+}
